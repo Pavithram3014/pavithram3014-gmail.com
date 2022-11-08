@@ -9,7 +9,7 @@ public class loop {
                 System.out.print(i);
 
             }
-            System.out.println("Newfeature");
+            System.out.println("Newfeature = 1");
         }
 
     }
